@@ -1,0 +1,18 @@
+.calculator-btn-clear {
+    height: 50px;
+    font-size: 1.6em;
+    display: flex;
+    flex: 1;
+    background: #A9C52F;
+    margin-top: 8px;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    border: 2px solid #000000;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.calculator-btn-clear:hover {
+    background: #e8ff84;
+}
