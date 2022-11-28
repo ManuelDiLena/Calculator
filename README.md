@@ -1,3 +1,9 @@
+# Calculator
+
+Web calculator with all its basic functions created with React.
+
+Try it [here!](https://manueldilena.github.io/Calculator/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
